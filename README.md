@@ -1,6 +1,3 @@
-# hello-world
-Just another repository
-Higher Ed. Ed Tech. E-Learning.
-Who is Ed?  Is Ed redundant?  Does he understand the tech?
+# publications-placeholder
+An empty repository that is the humble, albeit nonfunctional, seed of all tickets!
 
-[![Throughput Graph](https://graphs.waffle.io/coryzanker/hello-world/throughput.svg)](https://waffle.io/coryzanker/hello-world/metrics/throughput)
